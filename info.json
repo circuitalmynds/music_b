@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1038.2341999999999,
+    "videos": [
         "3 Golden Oldies # 7-gtPAh8-qa8w.mp4",
         "Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4",
         "EL TRI-METRO BALDERAS-NZIDClZjtIA.mp4",
@@ -96,7 +97,5 @@
         "Bee Gees - Stayin' Alive (Official Music Video)-fNFzfwLM72c.mp4",
         "Beso Tus Pies- Marcos Brunet-mk4ok5Ofa0A.mp4",
         "Beyoncé - Love On Top (Official Video)-Ob7vObnFUJc.mp4"
-    ],
-    "id": "b",
-    "total_size": 990.1372451171875
+    ]
 }
