@@ -1,471 +1,565 @@
 {
     "available_space": false,
-    "files": [
+    "content": [
         {
             "name": "Bob Dylan - Gotta Serve Somebody (Audio)-wC10VWDTzmU.mp4",
-            "path": "music_b/videos/Bob Dylan - Gotta Serve Somebody (Audio)-wC10VWDTzmU.mp4",
-            "size": 11.636779008000001
+            "path": "b/videos/Bob Dylan - Gotta Serve Somebody (Audio)-wC10VWDTzmU.mp4",
+            "size": 11.636779008000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Gotta Serve Somebody (Audio)-wC10VWDTzmU.mp4?raw=true"
         },
         {
             "name": "Billie Eilish - idontwannabeyouanymore (Vertical Video)--tn2S3kJlyU.mp4",
-            "path": "music_b/videos/Billie Eilish - idontwannabeyouanymore (Vertical Video)--tn2S3kJlyU.mp4",
-            "size": 8.105062400000001
+            "path": "b/videos/Billie Eilish - idontwannabeyouanymore (Vertical Video)--tn2S3kJlyU.mp4",
+            "size": 8.105062400000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billie Eilish - idontwannabeyouanymore (Vertical Video)--tn2S3kJlyU.mp4?raw=true"
         },
         {
             "name": "Banda el Recodo - Que Te Ruege Quien Te Quiera (Letras)-X3kA4Ow3CaA.mp4",
-            "path": "music_b/videos/Banda el Recodo - Que Te Ruege Quien Te Quiera (Letras)-X3kA4Ow3CaA.mp4",
-            "size": 10.56813056
+            "path": "b/videos/Banda el Recodo - Que Te Ruege Quien Te Quiera (Letras)-X3kA4Ow3CaA.mp4",
+            "size": 10.56813056,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Banda el Recodo - Que Te Ruege Quien Te Quiera (Letras)-X3kA4Ow3CaA.mp4?raw=true"
         },
         {
             "name": "Bee Gees - To Love Somebody (1967) HD 0815007-WPDVxbk-zyU.mp4",
-            "path": "music_b/videos/Bee Gees - To Love Somebody (1967) HD 0815007-WPDVxbk-zyU.mp4",
-            "size": 10.735352832
+            "path": "b/videos/Bee Gees - To Love Somebody (1967) HD 0815007-WPDVxbk-zyU.mp4",
+            "size": 10.735352832,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bee Gees - To Love Somebody (1967) HD 0815007-WPDVxbk-zyU.mp4?raw=true"
         },
         {
             "name": "BEE GEES - TRAGEDY - ESPAÑOL INGLES-QJ3QIud3wPo.mp4",
-            "path": "music_b/videos/BEE GEES - TRAGEDY - ESPAÑOL INGLES-QJ3QIud3wPo.mp4",
-            "size": 14.399579136000002
+            "path": "b/videos/BEE GEES - TRAGEDY - ESPAÑOL INGLES-QJ3QIud3wPo.mp4",
+            "size": 14.399579136000002,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BEE GEES - TRAGEDY - ESPAÑOL INGLES-QJ3QIud3wPo.mp4?raw=true"
         },
         {
             "name": "Breezin' ~ Eddie Beal Combo  (1957)-9DQ0IwavbTM.mp4",
-            "path": "music_b/videos/Breezin' ~ Eddie Beal Combo  (1957)-9DQ0IwavbTM.mp4",
-            "size": 5.8856314880000005
+            "path": "b/videos/Breezin' ~ Eddie Beal Combo  (1957)-9DQ0IwavbTM.mp4",
+            "size": 5.8856314880000005,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Breezin' ~ Eddie Beal Combo  (1957)-9DQ0IwavbTM.mp4?raw=true"
         },
         {
             "name": "Banda El Recodo De Cruz Lizárraga - Tómame O Déjame (Video Oficial)-nqsDXQuyCpc.mp4",
-            "path": "music_b/videos/Banda El Recodo De Cruz Lizárraga - Tómame O Déjame (Video Oficial)-nqsDXQuyCpc.mp4",
-            "size": 14.530683904000002
+            "path": "b/videos/Banda El Recodo De Cruz Lizárraga - Tómame O Déjame (Video Oficial)-nqsDXQuyCpc.mp4",
+            "size": 14.530683904000002,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Banda El Recodo De Cruz Lizárraga - Tómame O Déjame (Video Oficial)-nqsDXQuyCpc.mp4?raw=true"
         },
         {
             "name": "Billy Joel - The River of Dreams (Official Music Video)-hSq4B_zHqPM.mp4",
-            "path": "music_b/videos/Billy Joel - The River of Dreams (Official Music Video)-hSq4B_zHqPM.mp4",
-            "size": 22.569552896
+            "path": "b/videos/Billy Joel - The River of Dreams (Official Music Video)-hSq4B_zHqPM.mp4",
+            "size": 22.569552896,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - The River of Dreams (Official Music Video)-hSq4B_zHqPM.mp4?raw=true"
         },
         {
             "name": "Bee Gees - Stayin' Alive (Official Music Video)-fNFzfwLM72c.mp4",
-            "path": "music_b/videos/Bee Gees - Stayin' Alive (Official Music Video)-fNFzfwLM72c.mp4",
-            "size": 16.020699136
+            "path": "b/videos/Bee Gees - Stayin' Alive (Official Music Video)-fNFzfwLM72c.mp4",
+            "size": 16.020699136,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bee Gees - Stayin' Alive (Official Music Video)-fNFzfwLM72c.mp4?raw=true"
         },
         {
             "name": "I Won't Stand In Your Way-ZYBJZNB-xao.mp4",
-            "path": "music_b/videos/I Won't Stand In Your Way-ZYBJZNB-xao.mp4",
-            "size": 6.551275520000001
+            "path": "b/videos/I Won't Stand In Your Way-ZYBJZNB-xao.mp4",
+            "size": 6.551275520000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/I Won't Stand In Your Way-ZYBJZNB-xao.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - Like a Rolling Stone (Audio)-IwOfCgkyEj0.mp4",
-            "path": "music_b/videos/Bob Dylan - Like a Rolling Stone (Audio)-IwOfCgkyEj0.mp4",
-            "size": 9.890903040000001
+            "path": "b/videos/Bob Dylan - Like a Rolling Stone (Audio)-IwOfCgkyEj0.mp4",
+            "size": 9.890903040000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Like a Rolling Stone (Audio)-IwOfCgkyEj0.mp4?raw=true"
         },
         {
             "name": "BASE DE TRAP - 'FREESTYLE' _ Pista de Trap USO LIBRE_ Rap_Trap Instrumental Freestyle Beat 2021-Uj3I4p8-FiQ.mp4",
-            "path": "music_b/videos/BASE DE TRAP - 'FREESTYLE' _ Pista de Trap USO LIBRE_ Rap_Trap Instrumental Freestyle Beat 2021-Uj3I4p8-FiQ.mp4",
-            "size": 3.652868096
+            "path": "b/videos/BASE DE TRAP - 'FREESTYLE' _ Pista de Trap USO LIBRE_ Rap_Trap Instrumental Freestyle Beat 2021-Uj3I4p8-FiQ.mp4",
+            "size": 3.652868096,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BASE DE TRAP - 'FREESTYLE' _ Pista de Trap USO LIBRE_ Rap_Trap Instrumental Freestyle Beat 2021-Uj3I4p8-FiQ.mp4?raw=true"
         },
         {
             "name": "Beso Tus Pies- Marcos Brunet-mk4ok5Ofa0A.mp4",
-            "path": "music_b/videos/Beso Tus Pies- Marcos Brunet-mk4ok5Ofa0A.mp4",
-            "size": 17.923213312
+            "path": "b/videos/Beso Tus Pies- Marcos Brunet-mk4ok5Ofa0A.mp4",
+            "size": 17.923213312,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Beso Tus Pies- Marcos Brunet-mk4ok5Ofa0A.mp4?raw=true"
         },
         {
             "name": "Butterflies and Hurricanes-wIZ-iYNRHWE.mp4",
-            "path": "music_b/videos/Butterflies and Hurricanes-wIZ-iYNRHWE.mp4",
-            "size": 13.170927616
+            "path": "b/videos/Butterflies and Hurricanes-wIZ-iYNRHWE.mp4",
+            "size": 13.170927616,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Butterflies and Hurricanes-wIZ-iYNRHWE.mp4?raw=true"
         },
         {
             "name": "Bob Marley & the Wailers - Hallelujah Time-zfaDyoWSjmA.mp4",
-            "path": "music_b/videos/Bob Marley & the Wailers - Hallelujah Time-zfaDyoWSjmA.mp4",
-            "size": 4.760819712
+            "path": "b/videos/Bob Marley & the Wailers - Hallelujah Time-zfaDyoWSjmA.mp4",
+            "size": 4.760819712,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Marley & the Wailers - Hallelujah Time-zfaDyoWSjmA.mp4?raw=true"
         },
         {
             "name": "Bruno Mars - When I Was Your Man (Official Music Video)-ekzHIouo8Q4.mp4",
-            "path": "music_b/videos/Bruno Mars - When I Was Your Man (Official Music Video)-ekzHIouo8Q4.mp4",
-            "size": 13.832411136000001
+            "path": "b/videos/Bruno Mars - When I Was Your Man (Official Music Video)-ekzHIouo8Q4.mp4",
+            "size": 13.832411136000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bruno Mars - When I Was Your Man (Official Music Video)-ekzHIouo8Q4.mp4?raw=true"
         },
         {
             "name": "Bud Powell - Dance of the Infidels--5K6b3WHUj0.mp4",
-            "path": "music_b/videos/Bud Powell - Dance of the Infidels--5K6b3WHUj0.mp4",
-            "size": 5.457135616
+            "path": "b/videos/Bud Powell - Dance of the Infidels--5K6b3WHUj0.mp4",
+            "size": 5.457135616,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bud Powell - Dance of the Infidels--5K6b3WHUj0.mp4?raw=true"
         },
         {
             "name": "Bill Haley & His Comets-Rockin' Through The Rye-ZgdufzXvjqw.mp4",
-            "path": "music_b/videos/Bill Haley & His Comets-Rockin' Through The Rye-ZgdufzXvjqw.mp4",
-            "size": 6.102385664000001
+            "path": "b/videos/Bill Haley & His Comets-Rockin' Through The Rye-ZgdufzXvjqw.mp4",
+            "size": 6.102385664000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bill Haley & His Comets-Rockin' Through The Rye-ZgdufzXvjqw.mp4?raw=true"
         },
         {
             "name": "Dream Theater - The Dance Of Eternity [Breaking The Fourth Wall]-8Ik9qECIWgc.mp4",
-            "path": "music_b/videos/Dream Theater - The Dance Of Eternity [Breaking The Fourth Wall]-8Ik9qECIWgc.mp4",
-            "size": 36.124929024000004
+            "path": "b/videos/Dream Theater - The Dance Of Eternity [Breaking The Fourth Wall]-8Ik9qECIWgc.mp4",
+            "size": 36.124929024000004,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Dream Theater - The Dance Of Eternity [Breaking The Fourth Wall]-8Ik9qECIWgc.mp4?raw=true"
         },
         {
             "name": "Baby Come Back ❤ Andy Gibb & Bee Gees-zbQLBI5uDxQ.mp4",
-            "path": "music_b/videos/Baby Come Back ❤ Andy Gibb & Bee Gees-zbQLBI5uDxQ.mp4",
-            "size": 8.615703552000001
+            "path": "b/videos/Baby Come Back ❤ Andy Gibb & Bee Gees-zbQLBI5uDxQ.mp4",
+            "size": 8.615703552000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Baby Come Back ❤ Andy Gibb & Bee Gees-zbQLBI5uDxQ.mp4?raw=true"
         },
         {
             "name": "Bienvenido a mi miseria-rzNchOlKBzg.mp4",
-            "path": "music_b/videos/Bienvenido a mi miseria-rzNchOlKBzg.mp4",
-            "size": 3.866713088
+            "path": "b/videos/Bienvenido a mi miseria-rzNchOlKBzg.mp4",
+            "size": 3.866713088,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bienvenido a mi miseria-rzNchOlKBzg.mp4?raw=true"
         },
         {
             "name": "Billy Joel - This Is the Time (Audio)-pOBwqlP-3ls.mp4",
-            "path": "music_b/videos/Billy Joel - This Is the Time (Audio)-pOBwqlP-3ls.mp4",
-            "size": 8.203783168000001
+            "path": "b/videos/Billy Joel - This Is the Time (Audio)-pOBwqlP-3ls.mp4",
+            "size": 8.203783168000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - This Is the Time (Audio)-pOBwqlP-3ls.mp4?raw=true"
         },
         {
             "name": "Icing Sugar-GGZZkiHJQxQ.mp4",
-            "path": "music_b/videos/Icing Sugar-GGZZkiHJQxQ.mp4",
-            "size": 4.3966873600000005
+            "path": "b/videos/Icing Sugar-GGZZkiHJQxQ.mp4",
+            "size": 4.3966873600000005,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Icing Sugar-GGZZkiHJQxQ.mp4?raw=true"
         },
         {
             "name": "Billy Joel - Just the Way You Are (Official Audio)-HaA3YZ6QdJU.mp4",
-            "path": "music_b/videos/Billy Joel - Just the Way You Are (Official Audio)-HaA3YZ6QdJU.mp4",
-            "size": 7.196852224000001
+            "path": "b/videos/Billy Joel - Just the Way You Are (Official Audio)-HaA3YZ6QdJU.mp4",
+            "size": 7.196852224000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - Just the Way You Are (Official Audio)-HaA3YZ6QdJU.mp4?raw=true"
         },
         {
             "name": "Banda El Recodo De Cruz Lizárraga - Tus Palabras-4FuFs_wvm5o.mp4",
-            "path": "music_b/videos/Banda El Recodo De Cruz Lizárraga - Tus Palabras-4FuFs_wvm5o.mp4",
-            "size": 16.535940096
+            "path": "b/videos/Banda El Recodo De Cruz Lizárraga - Tus Palabras-4FuFs_wvm5o.mp4",
+            "size": 16.535940096,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Banda El Recodo De Cruz Lizárraga - Tus Palabras-4FuFs_wvm5o.mp4?raw=true"
         },
         {
             "name": "Billy Joel - She's Got A Way-KUn-XOQoN3U.mp4",
-            "path": "music_b/videos/Billy Joel - She's Got A Way-KUn-XOQoN3U.mp4",
-            "size": 3.2617431040000002
+            "path": "b/videos/Billy Joel - She's Got A Way-KUn-XOQoN3U.mp4",
+            "size": 3.2617431040000002,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - She's Got A Way-KUn-XOQoN3U.mp4?raw=true"
         },
         {
             "name": "El Ultimo Ska-hnwAW2wVIpo.mp4",
-            "path": "music_b/videos/El Ultimo Ska-hnwAW2wVIpo.mp4",
-            "size": 6.202498048000001
+            "path": "b/videos/El Ultimo Ska-hnwAW2wVIpo.mp4",
+            "size": 6.202498048000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/El Ultimo Ska-hnwAW2wVIpo.mp4?raw=true"
         },
         {
             "name": "Barbra Streisand - Guilty (Official Audio) ft. Barry Gibb-Phh9B1-4EYs.mp4",
-            "path": "music_b/videos/Barbra Streisand - Guilty (Official Audio) ft. Barry Gibb-Phh9B1-4EYs.mp4",
-            "size": 6.28653056
+            "path": "b/videos/Barbra Streisand - Guilty (Official Audio) ft. Barry Gibb-Phh9B1-4EYs.mp4",
+            "size": 6.28653056,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Barbra Streisand - Guilty (Official Audio) ft. Barry Gibb-Phh9B1-4EYs.mp4?raw=true"
         },
         {
             "name": "3 Golden Oldies # 7-gtPAh8-qa8w.mp4",
-            "path": "music_b/videos/3 Golden Oldies # 7-gtPAh8-qa8w.mp4",
-            "size": 12.38966272
+            "path": "b/videos/3 Golden Oldies # 7-gtPAh8-qa8w.mp4",
+            "size": 12.38966272,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/3 Golden Oldies # 7-gtPAh8-qa8w.mp4?raw=true"
         },
         {
             "name": "Billy Talent - Red Flag - Official Video-l2UktJtKpFw.mp4",
-            "path": "music_b/videos/Billy Talent - Red Flag - Official Video-l2UktJtKpFw.mp4",
-            "size": 19.207781376
+            "path": "b/videos/Billy Talent - Red Flag - Official Video-l2UktJtKpFw.mp4",
+            "size": 19.207781376,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Talent - Red Flag - Official Video-l2UktJtKpFw.mp4?raw=true"
         },
         {
             "name": "Breaking The Habit [Official Music Video] - Linkin Park-v2H4l9RpkwM.mp4",
-            "path": "music_b/videos/Breaking The Habit [Official Music Video] - Linkin Park-v2H4l9RpkwM.mp4",
-            "size": 12.041542656
+            "path": "b/videos/Breaking The Habit [Official Music Video] - Linkin Park-v2H4l9RpkwM.mp4",
+            "size": 12.041542656,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Breaking The Habit [Official Music Video] - Linkin Park-v2H4l9RpkwM.mp4?raw=true"
         },
         {
             "name": "BOB DYLAN - Mr Tambourine Man-PYF8Y47qZQY.mp4",
-            "path": "music_b/videos/BOB DYLAN - Mr Tambourine Man-PYF8Y47qZQY.mp4",
-            "size": 10.743556096
+            "path": "b/videos/BOB DYLAN - Mr Tambourine Man-PYF8Y47qZQY.mp4",
+            "size": 10.743556096,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BOB DYLAN - Mr Tambourine Man-PYF8Y47qZQY.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - Forever Young (Slow Version) (Audio)-Frj2CLGldC4.mp4",
-            "path": "music_b/videos/Bob Dylan - Forever Young (Slow Version) (Audio)-Frj2CLGldC4.mp4",
-            "size": 8.022611968
+            "path": "b/videos/Bob Dylan - Forever Young (Slow Version) (Audio)-Frj2CLGldC4.mp4",
+            "size": 8.022611968,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Forever Young (Slow Version) (Audio)-Frj2CLGldC4.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - Just Like a Woman (Audio)-dRLXZVojdhQ.mp4",
-            "path": "music_b/videos/Bob Dylan - Just Like a Woman (Audio)-dRLXZVojdhQ.mp4",
-            "size": 9.495928832
+            "path": "b/videos/Bob Dylan - Just Like a Woman (Audio)-dRLXZVojdhQ.mp4",
+            "size": 9.495928832,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Just Like a Woman (Audio)-dRLXZVojdhQ.mp4?raw=true"
         },
         {
             "name": "Bush Satán-Bw545KFJqxU.mp4",
-            "path": "music_b/videos/Bush Satán-Bw545KFJqxU.mp4",
-            "size": 2.108844032
+            "path": "b/videos/Bush Satán-Bw545KFJqxU.mp4",
+            "size": 2.108844032,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bush Satán-Bw545KFJqxU.mp4?raw=true"
         },
         {
             "name": "boikot esperando en el metro-Ksvg5XB_blA.mp4",
-            "path": "music_b/videos/boikot esperando en el metro-Ksvg5XB_blA.mp4",
-            "size": 10.651969536000001
+            "path": "b/videos/boikot esperando en el metro-Ksvg5XB_blA.mp4",
+            "size": 10.651969536000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/boikot esperando en el metro-Ksvg5XB_blA.mp4?raw=true"
         },
         {
             "name": "Boxcar Willie - Medley - Cold, Cold Heart_ Take These Chains From My Heart....-SRswNAwpiIc.mp4",
-            "path": "music_b/videos/Boxcar Willie - Medley - Cold, Cold Heart_ Take These Chains From My Heart....-SRswNAwpiIc.mp4",
-            "size": 30.399908864
+            "path": "b/videos/Boxcar Willie - Medley - Cold, Cold Heart_ Take These Chains From My Heart....-SRswNAwpiIc.mp4",
+            "size": 30.399908864,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boxcar Willie - Medley - Cold, Cold Heart_ Take These Chains From My Heart....-SRswNAwpiIc.mp4?raw=true"
         },
         {
             "name": "BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4",
-            "path": "music_b/videos/BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4",
-            "size": 8.292967424
+            "path": "b/videos/BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4",
+            "size": 8.292967424,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4?raw=true"
         },
         {
             "name": "Billy Joel - She's Always a Woman (Official Audio)-Cx3QmqV2pHg.mp4",
-            "path": "music_b/videos/Billy Joel - She's Always a Woman (Official Audio)-Cx3QmqV2pHg.mp4",
-            "size": 5.011916800000001
+            "path": "b/videos/Billy Joel - She's Always a Woman (Official Audio)-Cx3QmqV2pHg.mp4",
+            "size": 5.011916800000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - She's Always a Woman (Official Audio)-Cx3QmqV2pHg.mp4?raw=true"
         },
         {
             "name": "Bill Haley & The Comets - Rudy's Rock, 1956 Decca 45 record.-sq46ecByFA8.mp4",
-            "path": "music_b/videos/Bill Haley & The Comets - Rudy's Rock, 1956 Decca 45 record.-sq46ecByFA8.mp4",
-            "size": 4.5380608
+            "path": "b/videos/Bill Haley & The Comets - Rudy's Rock, 1956 Decca 45 record.-sq46ecByFA8.mp4",
+            "size": 4.5380608,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bill Haley & The Comets - Rudy's Rock, 1956 Decca 45 record.-sq46ecByFA8.mp4?raw=true"
         },
         {
             "name": "Beyoncé - Love On Top (Official Video)-Ob7vObnFUJc.mp4",
-            "path": "music_b/videos/Beyoncé - Love On Top (Official Video)-Ob7vObnFUJc.mp4",
-            "size": 18.169310208000002
+            "path": "b/videos/Beyoncé - Love On Top (Official Video)-Ob7vObnFUJc.mp4",
+            "size": 18.169310208000002,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Beyoncé - Love On Top (Official Video)-Ob7vObnFUJc.mp4?raw=true"
         },
         {
             "name": "Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4",
-            "path": "music_b/videos/Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4",
-            "size": 17.42368768
+            "path": "b/videos/Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4",
+            "size": 17.42368768,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4?raw=true"
         },
         {
             "name": "Elektroduendes - Tiempos de Atrako-TirxZ-yvWAM.mp4",
-            "path": "music_b/videos/Elektroduendes - Tiempos de Atrako-TirxZ-yvWAM.mp4",
-            "size": 10.600906752
+            "path": "b/videos/Elektroduendes - Tiempos de Atrako-TirxZ-yvWAM.mp4",
+            "size": 10.600906752,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Elektroduendes - Tiempos de Atrako-TirxZ-yvWAM.mp4?raw=true"
         },
         {
             "name": "Benny Goodman. Stompin' at the Savoy --5ky8I_H2RVM.mp4",
-            "path": "music_b/videos/Benny Goodman. Stompin' at the Savoy --5ky8I_H2RVM.mp4",
-            "size": 8.871653376000001
+            "path": "b/videos/Benny Goodman. Stompin' at the Savoy --5ky8I_H2RVM.mp4",
+            "size": 8.871653376000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Benny Goodman. Stompin' at the Savoy --5ky8I_H2RVM.mp4?raw=true"
         },
         {
             "name": "Banda El Recodo - Te Presumo (Video Oficial)-mQWOAjSffHI.mp4",
-            "path": "music_b/videos/Banda El Recodo - Te Presumo (Video Oficial)-mQWOAjSffHI.mp4",
-            "size": 17.815729152
+            "path": "b/videos/Banda El Recodo - Te Presumo (Video Oficial)-mQWOAjSffHI.mp4",
+            "size": 17.815729152,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Banda El Recodo - Te Presumo (Video Oficial)-mQWOAjSffHI.mp4?raw=true"
         },
         {
             "name": "Boston - More Than A Feeling (HQ)-oR4uKcvQbGQ.mp4",
-            "path": "music_b/videos/Boston - More Than A Feeling (HQ)-oR4uKcvQbGQ.mp4",
-            "size": 9.306748928000001
+            "path": "b/videos/Boston - More Than A Feeling (HQ)-oR4uKcvQbGQ.mp4",
+            "size": 9.306748928000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boston - More Than A Feeling (HQ)-oR4uKcvQbGQ.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - The Times They Are A-Changin' (Audio)-90WD_ats6eE.mp4",
-            "path": "music_b/videos/Bob Dylan - The Times They Are A-Changin' (Audio)-90WD_ats6eE.mp4",
-            "size": 6.988234752
+            "path": "b/videos/Bob Dylan - The Times They Are A-Changin' (Audio)-90WD_ats6eE.mp4",
+            "size": 6.988234752,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - The Times They Are A-Changin' (Audio)-90WD_ats6eE.mp4?raw=true"
         },
         {
             "name": "Bob Marley - Get Up, Stand Up (Live at Munich, 1980)-RhJ0q7X3DLM.mp4",
-            "path": "music_b/videos/Bob Marley - Get Up, Stand Up (Live at Munich, 1980)-RhJ0q7X3DLM.mp4",
-            "size": 35.816660992
+            "path": "b/videos/Bob Marley - Get Up, Stand Up (Live at Munich, 1980)-RhJ0q7X3DLM.mp4",
+            "size": 35.816660992,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Marley - Get Up, Stand Up (Live at Munich, 1980)-RhJ0q7X3DLM.mp4?raw=true"
         },
         {
             "name": "Boikot - La mosca (lágrimas amargas)-ntaqhF4mmmI.mp4",
-            "path": "music_b/videos/Boikot - La mosca (lágrimas amargas)-ntaqhF4mmmI.mp4",
-            "size": 7.622216704
+            "path": "b/videos/Boikot - La mosca (lágrimas amargas)-ntaqhF4mmmI.mp4",
+            "size": 7.622216704,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boikot - La mosca (lágrimas amargas)-ntaqhF4mmmI.mp4?raw=true"
         },
         {
             "name": "Bo Diddley 'Bo Diddley',1957. Track B5 - ' Who do you love'-8w9Eii9ZFsQ.mp4",
-            "path": "music_b/videos/Bo Diddley 'Bo Diddley',1957. Track B5 - ' Who do you love'-8w9Eii9ZFsQ.mp4",
-            "size": 4.993337344
+            "path": "b/videos/Bo Diddley 'Bo Diddley',1957. Track B5 - ' Who do you love'-8w9Eii9ZFsQ.mp4",
+            "size": 4.993337344,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bo Diddley 'Bo Diddley',1957. Track B5 - ' Who do you love'-8w9Eii9ZFsQ.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - Full Moon And Empty Arms (Audio)-6S7nTLeMdAk.mp4",
-            "path": "music_b/videos/Bob Dylan - Full Moon And Empty Arms (Audio)-6S7nTLeMdAk.mp4",
-            "size": 4.588461056
+            "path": "b/videos/Bob Dylan - Full Moon And Empty Arms (Audio)-6S7nTLeMdAk.mp4",
+            "size": 4.588461056,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Full Moon And Empty Arms (Audio)-6S7nTLeMdAk.mp4?raw=true"
         },
         {
             "name": "EL TRI-METRO BALDERAS-NZIDClZjtIA.mp4",
-            "path": "music_b/videos/EL TRI-METRO BALDERAS-NZIDClZjtIA.mp4",
-            "size": 7.046710272
+            "path": "b/videos/EL TRI-METRO BALDERAS-NZIDClZjtIA.mp4",
+            "size": 7.046710272,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/EL TRI-METRO BALDERAS-NZIDClZjtIA.mp4?raw=true"
         },
         {
             "name": "Boikot - Carretera-R2hUGUcrbKU.mp4",
-            "path": "music_b/videos/Boikot - Carretera-R2hUGUcrbKU.mp4",
-            "size": 7.175393280000001
+            "path": "b/videos/Boikot - Carretera-R2hUGUcrbKU.mp4",
+            "size": 7.175393280000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boikot - Carretera-R2hUGUcrbKU.mp4?raw=true"
         },
         {
             "name": "Billy Joel - Tell Her About It (Official Video)-p0pM5dm--yQ.mp4",
-            "path": "music_b/videos/Billy Joel - Tell Her About It (Official Video)-p0pM5dm--yQ.mp4",
-            "size": 18.371866624000003
+            "path": "b/videos/Billy Joel - Tell Her About It (Official Video)-p0pM5dm--yQ.mp4",
+            "size": 18.371866624000003,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - Tell Her About It (Official Video)-p0pM5dm--yQ.mp4?raw=true"
         },
         {
             "name": "BETO  VEGA - EL CAMPEÓN (VÍDEO OFICIAL)-8dUffLvvYCY.mp4",
-            "path": "music_b/videos/BETO  VEGA - EL CAMPEÓN (VÍDEO OFICIAL)-8dUffLvvYCY.mp4",
-            "size": 14.081241088
+            "path": "b/videos/BETO  VEGA - EL CAMPEÓN (VÍDEO OFICIAL)-8dUffLvvYCY.mp4",
+            "size": 14.081241088,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BETO  VEGA - EL CAMPEÓN (VÍDEO OFICIAL)-8dUffLvvYCY.mp4?raw=true"
         },
         {
             "name": "Buddy Holly - Peggy Sue lyrics-ZPXuZ355780.mp4",
-            "path": "music_b/videos/Buddy Holly - Peggy Sue lyrics-ZPXuZ355780.mp4",
-            "size": 5.819851776
+            "path": "b/videos/Buddy Holly - Peggy Sue lyrics-ZPXuZ355780.mp4",
+            "size": 5.819851776,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Buddy Holly - Peggy Sue lyrics-ZPXuZ355780.mp4?raw=true"
         },
         {
             "name": "Billy Joel - Pressure (Official Video)-Iyv905Q2omU.mp4",
-            "path": "music_b/videos/Billy Joel - Pressure (Official Video)-Iyv905Q2omU.mp4",
-            "size": 16.0833024
+            "path": "b/videos/Billy Joel - Pressure (Official Video)-Iyv905Q2omU.mp4",
+            "size": 16.0833024,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - Pressure (Official Video)-Iyv905Q2omU.mp4?raw=true"
         },
         {
             "name": "Boston - Peace of Mind (Audio)-edwk-8KJ1Js.mp4",
-            "path": "music_b/videos/Boston - Peace of Mind (Audio)-edwk-8KJ1Js.mp4",
-            "size": 11.151822848
+            "path": "b/videos/Boston - Peace of Mind (Audio)-edwk-8KJ1Js.mp4",
+            "size": 11.151822848,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boston - Peace of Mind (Audio)-edwk-8KJ1Js.mp4?raw=true"
         },
         {
             "name": "Baboom _ Mama Said-ULWvPvQp74I.mp4",
-            "path": "music_b/videos/Baboom _ Mama Said-ULWvPvQp74I.mp4",
-            "size": 5.26689792
+            "path": "b/videos/Baboom _ Mama Said-ULWvPvQp74I.mp4",
+            "size": 5.26689792,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Baboom _ Mama Said-ULWvPvQp74I.mp4?raw=true"
         },
         {
             "name": "Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
-            "path": "music_b/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
-            "size": 9.912700928000001
+            "path": "b/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4",
+            "size": 9.912700928000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Blitz - New Age - (UKDK UK 1983)-3jLzYXXm6J8.mp4?raw=true"
         },
         {
             "name": "boikot la noche mas larga-CFeKqkUrlvw.mp4",
-            "path": "music_b/videos/boikot la noche mas larga-CFeKqkUrlvw.mp4",
-            "size": 8.599487488000001
+            "path": "b/videos/boikot la noche mas larga-CFeKqkUrlvw.mp4",
+            "size": 8.599487488000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/boikot la noche mas larga-CFeKqkUrlvw.mp4?raw=true"
         },
         {
             "name": "Bill Haley and His Comets - Joey's Song (1959)-9fmyJLclU1M.mp4",
-            "path": "music_b/videos/Bill Haley and His Comets - Joey's Song (1959)-9fmyJLclU1M.mp4",
-            "size": 5.616658432
+            "path": "b/videos/Bill Haley and His Comets - Joey's Song (1959)-9fmyJLclU1M.mp4",
+            "size": 5.616658432,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bill Haley and His Comets - Joey's Song (1959)-9fmyJLclU1M.mp4?raw=true"
         },
         {
             "name": "Bo Diddley-Say Man (High Quality)-45ZdKCFFR3I.mp4",
-            "path": "music_b/videos/Bo Diddley-Say Man (High Quality)-45ZdKCFFR3I.mp4",
-            "size": 5.403225088
+            "path": "b/videos/Bo Diddley-Say Man (High Quality)-45ZdKCFFR3I.mp4",
+            "size": 5.403225088,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bo Diddley-Say Man (High Quality)-45ZdKCFFR3I.mp4?raw=true"
         },
         {
             "name": "Bob Dylan- Knockin' on Heaven's Door 'Original'-rnKbImRPhTE.mp4",
-            "path": "music_b/videos/Bob Dylan- Knockin' on Heaven's Door 'Original'-rnKbImRPhTE.mp4",
-            "size": 9.017391104000001
+            "path": "b/videos/Bob Dylan- Knockin' on Heaven's Door 'Original'-rnKbImRPhTE.mp4",
+            "size": 9.017391104000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan- Knockin' on Heaven's Door 'Original'-rnKbImRPhTE.mp4?raw=true"
         },
         {
             "name": "Bob Marley & the Wailers - One Foundation-oNCCX68FJoM.mp4",
-            "path": "music_b/videos/Bob Marley & the Wailers - One Foundation-oNCCX68FJoM.mp4",
-            "size": 5.063325696000001
+            "path": "b/videos/Bob Marley & the Wailers - One Foundation-oNCCX68FJoM.mp4",
+            "size": 5.063325696000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Marley & the Wailers - One Foundation-oNCCX68FJoM.mp4?raw=true"
         },
         {
             "name": "Bocafloja 'Autonomo' (2007) Video oficial.-neApD70mO_8.mp4",
-            "path": "music_b/videos/Bocafloja 'Autonomo' (2007) Video oficial.-neApD70mO_8.mp4",
-            "size": 19.790676992
+            "path": "b/videos/Bocafloja 'Autonomo' (2007) Video oficial.-neApD70mO_8.mp4",
+            "size": 19.790676992,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bocafloja 'Autonomo' (2007) Video oficial.-neApD70mO_8.mp4?raw=true"
         },
         {
             "name": "Brain Damage-BhYKN21olBw.mp4",
-            "path": "music_b/videos/Brain Damage-BhYKN21olBw.mp4",
-            "size": 4.309351424
+            "path": "b/videos/Brain Damage-BhYKN21olBw.mp4",
+            "size": 4.309351424,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Brain Damage-BhYKN21olBw.mp4?raw=true"
         },
         {
             "name": "Billy The Kid - Baby Comeback (Official Video)-juLxok9KcHI.mp4",
-            "path": "music_b/videos/Billy The Kid - Baby Comeback (Official Video)-juLxok9KcHI.mp4",
-            "size": 15.124744192000001
+            "path": "b/videos/Billy The Kid - Baby Comeback (Official Video)-juLxok9KcHI.mp4",
+            "size": 15.124744192000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy The Kid - Baby Comeback (Official Video)-juLxok9KcHI.mp4?raw=true"
         },
         {
             "name": "BORRACHO Y LOCO Conjunto primavera.-x1-lJ9bpMp0.mp4",
-            "path": "music_b/videos/BORRACHO Y LOCO Conjunto primavera.-x1-lJ9bpMp0.mp4",
-            "size": 5.1959767040000004
+            "path": "b/videos/BORRACHO Y LOCO Conjunto primavera.-x1-lJ9bpMp0.mp4",
+            "size": 5.1959767040000004,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BORRACHO Y LOCO Conjunto primavera.-x1-lJ9bpMp0.mp4?raw=true"
         },
         {
             "name": "BUNBURY - Ánimas, que no amanezca  (videoclip)-ZAgg9IWTfYQ.mp4",
-            "path": "music_b/videos/BUNBURY - Ánimas, que no amanezca  (videoclip)-ZAgg9IWTfYQ.mp4",
-            "size": 22.035326976
+            "path": "b/videos/BUNBURY - Ánimas, que no amanezca  (videoclip)-ZAgg9IWTfYQ.mp4",
+            "size": 22.035326976,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BUNBURY - Ánimas, que no amanezca  (videoclip)-ZAgg9IWTfYQ.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - Tangled Up In Blue (Video)-YwSZvHqf9qM.mp4",
-            "path": "music_b/videos/Bob Dylan - Tangled Up In Blue (Video)-YwSZvHqf9qM.mp4",
-            "size": 14.361122816000002
+            "path": "b/videos/Bob Dylan - Tangled Up In Blue (Video)-YwSZvHqf9qM.mp4",
+            "size": 14.361122816000002,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Tangled Up In Blue (Video)-YwSZvHqf9qM.mp4?raw=true"
         },
         {
             "name": "Billy Joel - An Innocent Man (Audio)-mQCWY5ynBaw.mp4",
-            "path": "music_b/videos/Billy Joel - An Innocent Man (Audio)-mQCWY5ynBaw.mp4",
-            "size": 9.981617152
+            "path": "b/videos/Billy Joel - An Innocent Man (Audio)-mQCWY5ynBaw.mp4",
+            "size": 9.981617152,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - An Innocent Man (Audio)-mQCWY5ynBaw.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - All Along the Watchtower (Audio)-bT7Hj-ea0VE.mp4",
-            "path": "music_b/videos/Bob Dylan - All Along the Watchtower (Audio)-bT7Hj-ea0VE.mp4",
-            "size": 4.505532416
+            "path": "b/videos/Bob Dylan - All Along the Watchtower (Audio)-bT7Hj-ea0VE.mp4",
+            "size": 4.505532416,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - All Along the Watchtower (Audio)-bT7Hj-ea0VE.mp4?raw=true"
         },
         {
             "name": "Beartooth - Go Be The Voice (Official Music Video)-bJ_LC27ZNlA.mp4",
-            "path": "music_b/videos/Beartooth - Go Be The Voice (Official Music Video)-bJ_LC27ZNlA.mp4",
-            "size": 11.729038336
+            "path": "b/videos/Beartooth - Go Be The Voice (Official Music Video)-bJ_LC27ZNlA.mp4",
+            "size": 11.729038336,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Beartooth - Go Be The Voice (Official Music Video)-bJ_LC27ZNlA.mp4?raw=true"
         },
         {
             "name": "Do It Clean-kPKTZD-HWNs.mp4",
-            "path": "music_b/videos/Do It Clean-kPKTZD-HWNs.mp4",
-            "size": 5.78532352
+            "path": "b/videos/Do It Clean-kPKTZD-HWNs.mp4",
+            "size": 5.78532352,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Do It Clean-kPKTZD-HWNs.mp4?raw=true"
         },
         {
             "name": "Bill Haley & His Comets - Calling All Comets (1956)-ZDzIgCg96kY.mp4",
-            "path": "music_b/videos/Bill Haley & His Comets - Calling All Comets (1956)-ZDzIgCg96kY.mp4",
-            "size": 11.545436160000001
+            "path": "b/videos/Bill Haley & His Comets - Calling All Comets (1956)-ZDzIgCg96kY.mp4",
+            "size": 11.545436160000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bill Haley & His Comets - Calling All Comets (1956)-ZDzIgCg96kY.mp4?raw=true"
         },
         {
             "name": "Breathe-vHoi7R27bwk.mp4",
-            "path": "music_b/videos/Breathe-vHoi7R27bwk.mp4",
-            "size": 6.267873280000001
+            "path": "b/videos/Breathe-vHoi7R27bwk.mp4",
+            "size": 6.267873280000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Breathe-vHoi7R27bwk.mp4?raw=true"
         },
         {
             "name": "Bronco - Adoro ( Primera Fila ) (En Vivo) ft. Julieta Venegas--DI7mRyeqr0.mp4",
-            "path": "music_b/videos/Bronco - Adoro ( Primera Fila ) (En Vivo) ft. Julieta Venegas--DI7mRyeqr0.mp4",
-            "size": 16.953854976000002
+            "path": "b/videos/Bronco - Adoro ( Primera Fila ) (En Vivo) ft. Julieta Venegas--DI7mRyeqr0.mp4",
+            "size": 16.953854976000002,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bronco - Adoro ( Primera Fila ) (En Vivo) ft. Julieta Venegas--DI7mRyeqr0.mp4?raw=true"
         },
         {
             "name": "Breakbot - I'M Yours ft Irfane [Best Quality Hd]-fFcpJ3i5_78.mp4",
-            "path": "music_b/videos/Breakbot - I'M Yours ft Irfane [Best Quality Hd]-fFcpJ3i5_78.mp4",
-            "size": 17.897401344000002
+            "path": "b/videos/Breakbot - I'M Yours ft Irfane [Best Quality Hd]-fFcpJ3i5_78.mp4",
+            "size": 17.897401344000002,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Breakbot - I'M Yours ft Irfane [Best Quality Hd]-fFcpJ3i5_78.mp4?raw=true"
         },
         {
             "name": "Bob Marley - Burnin and Lootin-M99nzyiS830.mp4",
-            "path": "music_b/videos/Bob Marley - Burnin and Lootin-M99nzyiS830.mp4",
-            "size": 8.379862016
+            "path": "b/videos/Bob Marley - Burnin and Lootin-M99nzyiS830.mp4",
+            "size": 8.379862016,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Marley - Burnin and Lootin-M99nzyiS830.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - Lay, Lady, Lay (Audio)-LhzEsb2tNbI.mp4",
-            "path": "music_b/videos/Bob Dylan - Lay, Lady, Lay (Audio)-LhzEsb2tNbI.mp4",
-            "size": 4.909273088
+            "path": "b/videos/Bob Dylan - Lay, Lady, Lay (Audio)-LhzEsb2tNbI.mp4",
+            "size": 4.909273088,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Lay, Lady, Lay (Audio)-LhzEsb2tNbI.mp4?raw=true"
         },
         {
             "name": "Big Jim - Monkey Do-8h5AMJiSQUU.mp4",
-            "path": "music_b/videos/Big Jim - Monkey Do-8h5AMJiSQUU.mp4",
-            "size": 7.359607808000001
+            "path": "b/videos/Big Jim - Monkey Do-8h5AMJiSQUU.mp4",
+            "size": 7.359607808000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Big Jim - Monkey Do-8h5AMJiSQUU.mp4?raw=true"
         },
         {
             "name": "Burna Boy - Ye [Official Music Video]-lPe09eE6Xio.mp4",
-            "path": "music_b/videos/Burna Boy - Ye [Official Music Video]-lPe09eE6Xio.mp4",
-            "size": 21.3301504
+            "path": "b/videos/Burna Boy - Ye [Official Music Video]-lPe09eE6Xio.mp4",
+            "size": 21.3301504,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Burna Boy - Ye [Official Music Video]-lPe09eE6Xio.mp4?raw=true"
         },
         {
             "name": "Behind the Light Thou Shall Rise-8i9gVYXjG0E.mp4",
-            "path": "music_b/videos/Behind the Light Thou Shall Rise-8i9gVYXjG0E.mp4",
-            "size": 5.725896704
+            "path": "b/videos/Behind the Light Thou Shall Rise-8i9gVYXjG0E.mp4",
+            "size": 5.725896704,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Behind the Light Thou Shall Rise-8i9gVYXjG0E.mp4?raw=true"
         },
         {
             "name": "Breezing Up-WAkQtQZAQJ0.mp4",
-            "path": "music_b/videos/Breezing Up-WAkQtQZAQJ0.mp4",
-            "size": 8.445407232
+            "path": "b/videos/Breezing Up-WAkQtQZAQJ0.mp4",
+            "size": 8.445407232,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Breezing Up-WAkQtQZAQJ0.mp4?raw=true"
         },
         {
             "name": "Banda El Recodo - Parece Mentira (Video Oficial)-SYVCmlz-_Y8.mp4",
-            "path": "music_b/videos/Banda El Recodo - Parece Mentira (Video Oficial)-SYVCmlz-_Y8.mp4",
-            "size": 16.273098752000003
+            "path": "b/videos/Banda El Recodo - Parece Mentira (Video Oficial)-SYVCmlz-_Y8.mp4",
+            "size": 16.273098752000003,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Banda El Recodo - Parece Mentira (Video Oficial)-SYVCmlz-_Y8.mp4?raw=true"
         },
         {
             "name": "Billie Holiday - I Can't Believe That You're In Love With Me (1938)-feLe1TeBD1Q.mp4",
-            "path": "music_b/videos/Billie Holiday - I Can't Believe That You're In Love With Me (1938)-feLe1TeBD1Q.mp4",
-            "size": 8.445390848
+            "path": "b/videos/Billie Holiday - I Can't Believe That You're In Love With Me (1938)-feLe1TeBD1Q.mp4",
+            "size": 8.445390848,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billie Holiday - I Can't Believe That You're In Love With Me (1938)-feLe1TeBD1Q.mp4?raw=true"
         },
         {
             "name": "Buddy Guy- Let Me Love You Baby-0EZHq8zpfGI.mp4",
-            "path": "music_b/videos/Buddy Guy- Let Me Love You Baby-0EZHq8zpfGI.mp4",
-            "size": 10.007136256
+            "path": "b/videos/Buddy Guy- Let Me Love You Baby-0EZHq8zpfGI.mp4",
+            "size": 10.007136256,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Buddy Guy- Let Me Love You Baby-0EZHq8zpfGI.mp4?raw=true"
         },
         {
             "name": "Billy Joel - The lion sleeps tonight + The longest time [ Frankfurt 3 - 9 - 2016 ]-Ws7DIMowHB8.mp4",
-            "path": "music_b/videos/Billy Joel - The lion sleeps tonight + The longest time [ Frankfurt 3 - 9 - 2016 ]-Ws7DIMowHB8.mp4",
-            "size": 25.358461952000003
+            "path": "b/videos/Billy Joel - The lion sleeps tonight + The longest time [ Frankfurt 3 - 9 - 2016 ]-Ws7DIMowHB8.mp4",
+            "size": 25.358461952000003,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - The lion sleeps tonight + The longest time [ Frankfurt 3 - 9 - 2016 ]-Ws7DIMowHB8.mp4?raw=true"
         },
         {
             "name": "Bob Dylan - Don't Think Twice, It's All Right (Audio)-1iHhWh9FtsQ.mp4",
-            "path": "music_b/videos/Bob Dylan - Don't Think Twice, It's All Right (Audio)-1iHhWh9FtsQ.mp4",
-            "size": 6.626060288000001
+            "path": "b/videos/Bob Dylan - Don't Think Twice, It's All Right (Audio)-1iHhWh9FtsQ.mp4",
+            "size": 6.626060288000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Don't Think Twice, It's All Right (Audio)-1iHhWh9FtsQ.mp4?raw=true"
         },
         {
             "name": "Boikot - Fuera del círculo-L-jRzV0UZWs.mp4",
-            "path": "music_b/videos/Boikot - Fuera del círculo-L-jRzV0UZWs.mp4",
-            "size": 9.933343744
+            "path": "b/videos/Boikot - Fuera del círculo-L-jRzV0UZWs.mp4",
+            "size": 9.933343744,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boikot - Fuera del círculo-L-jRzV0UZWs.mp4?raw=true"
         },
         {
             "name": "Bo Diddley - I Am Looking For A Woman-0ArHBwTVvAo.mp4",
-            "path": "music_b/videos/Bo Diddley - I Am Looking For A Woman-0ArHBwTVvAo.mp4",
-            "size": 4.097144832000001
+            "path": "b/videos/Bo Diddley - I Am Looking For A Woman-0ArHBwTVvAo.mp4",
+            "size": 4.097144832000001,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bo Diddley - I Am Looking For A Woman-0ArHBwTVvAo.mp4?raw=true"
         },
         {
             "name": "Black Eyed Peas & Anitta - eXplosion (Official Music Video)-_qHuuTKy41E.mp4",
-            "path": "music_b/videos/Black Eyed Peas & Anitta - eXplosion (Official Music Video)-_qHuuTKy41E.mp4",
-            "size": 17.45161216
+            "path": "b/videos/Black Eyed Peas & Anitta - eXplosion (Official Music Video)-_qHuuTKy41E.mp4",
+            "size": 17.45161216,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Black Eyed Peas & Anitta - eXplosion (Official Music Video)-_qHuuTKy41E.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 1020.022086656
 }
