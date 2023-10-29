@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "CFeKqkUrlvw",
@@ -58,13 +58,6 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bo Diddley-Say Man (High Quality)-45ZdKCFFR3I.mp4?raw=true"
         },
         {
-            "id": "wC10VWDTzmU",
-            "name": "Bob Dylan - Gotta Serve Somebody (Audio)-wC10VWDTzmU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Gotta Serve Somebody (Audio)-wC10VWDTzmU.mp4",
-            "size": 11.364042,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Gotta Serve Somebody (Audio)-wC10VWDTzmU.mp4?raw=true"
-        },
-        {
             "id": "rzNchOlKBzg",
             "name": "Bienvenido a mi miseria-rzNchOlKBzg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bienvenido a mi miseria-rzNchOlKBzg.mp4",
@@ -84,13 +77,6 @@
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - All Along the Watchtower (Official Audio)-bT7Hj-ea0VE.mp4",
             "size": 2.973889,
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - All Along the Watchtower (Official Audio)-bT7Hj-ea0VE.mp4?raw=true"
-        },
-        {
-            "id": "1iHhWh9FtsQ",
-            "name": "Bob Dylan - Don't Think Twice, It's All Right (Audio)-1iHhWh9FtsQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Don't Think Twice, It's All Right (Audio)-1iHhWh9FtsQ.mp4",
-            "size": 6.470762,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Don't Think Twice, It's All Right (Audio)-1iHhWh9FtsQ.mp4?raw=true"
         },
         {
             "id": "v2H4l9RpkwM",
@@ -119,13 +105,6 @@
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bo Diddley 'Bo Diddley',1957. Track B5 - ' Who do you love'-8w9Eii9ZFsQ.mp4",
             "size": 4.876306,
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bo Diddley 'Bo Diddley',1957. Track B5 - ' Who do you love'-8w9Eii9ZFsQ.mp4?raw=true"
-        },
-        {
-            "id": "YwSZvHqf9qM",
-            "name": "Bob Dylan - Tangled Up In Blue (Video)-YwSZvHqf9qM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Tangled Up In Blue (Video)-YwSZvHqf9qM.mp4",
-            "size": 14.024534,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Tangled Up In Blue (Video)-YwSZvHqf9qM.mp4?raw=true"
         },
         {
             "id": "L-jRzV0UZWs",
@@ -170,13 +149,6 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BOB DYLAN - Mr Tambourine Man-PYF8Y47qZQY.mp4?raw=true"
         },
         {
-            "id": "dRLXZVojdhQ",
-            "name": "Bob Dylan - Just Like a Woman (Audio)-dRLXZVojdhQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Just Like a Woman (Audio)-dRLXZVojdhQ.mp4",
-            "size": 9.273368,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Just Like a Woman (Audio)-dRLXZVojdhQ.mp4?raw=true"
-        },
-        {
             "id": "YwSZvHqf9qM",
             "name": "Bob Dylan - Tangled Up In Blue (Official HD Video)-YwSZvHqf9qM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Tangled Up In Blue (Official HD Video)-YwSZvHqf9qM.mp4",
@@ -203,13 +175,6 @@
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Baby Come Back ❤ Andy Gibb & Bee Gees-zbQLBI5uDxQ.mp4",
             "size": 8.413772999999999,
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Baby Come Back ❤ Andy Gibb & Bee Gees-zbQLBI5uDxQ.mp4?raw=true"
-        },
-        {
-            "id": "6S7nTLeMdAk",
-            "name": "Bob Dylan - Full Moon And Empty Arms (Audio)-6S7nTLeMdAk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Full Moon And Empty Arms (Audio)-6S7nTLeMdAk.mp4",
-            "size": 4.480919,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Full Moon And Empty Arms (Audio)-6S7nTLeMdAk.mp4?raw=true"
         },
         {
             "id": "nqsDXQuyCpc",
@@ -275,11 +240,11 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boikot - Carretera-R2hUGUcrbKU.mp4?raw=true"
         },
         {
-            "id": "IwOfCgkyEj0",
-            "name": "Bob Dylan - Like a Rolling Stone (Audio)-IwOfCgkyEj0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Like a Rolling Stone (Audio)-IwOfCgkyEj0.mp4",
-            "size": 9.659085,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Like a Rolling Stone (Audio)-IwOfCgkyEj0.mp4?raw=true"
+            "id": "R82XGJV_nkU",
+            "name": "Laid Back - Sunshine Reggae [R82XGJV_nkU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b/videos/Laid Back - Sunshine Reggae [R82XGJV_nkU].mp4",
+            "size": 8.739673999999999,
+            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Laid Back - Sunshine Reggae [R82XGJV_nkU].mp4?raw=true"
         },
         {
             "id": "ZAgg9IWTfYQ",
@@ -315,13 +280,6 @@
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bruno Mars - When I Was Your Man (Official Music Video)-ekzHIouo8Q4.mp4",
             "size": 13.508213999999999,
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bruno Mars - When I Was Your Man (Official Music Video)-ekzHIouo8Q4.mp4?raw=true"
-        },
-        {
-            "id": "edwk-8KJ1Js",
-            "name": "Boston - Peace of Mind (Audio)-edwk-8KJ1Js.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Boston - Peace of Mind (Audio)-edwk-8KJ1Js.mp4",
-            "size": 10.890452,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boston - Peace of Mind (Audio)-edwk-8KJ1Js.mp4?raw=true"
         },
         {
             "id": "x1-lJ9bpMp0",
@@ -366,13 +324,6 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy The Kid - Baby Comeback (Official Video)-juLxok9KcHI.mp4?raw=true"
         },
         {
-            "id": "O3VzFcCZjK0",
-            "name": "BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4",
-            "size": 8.098601,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/BASURA - C.R.O ft. DUKI (prod. Negro Dub)-O3VzFcCZjK0.mp4?raw=true"
-        },
-        {
             "id": "Bw545KFJqxU",
             "name": "Bush Satán-Bw545KFJqxU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bush Satán-Bw545KFJqxU.mp4",
@@ -415,13 +366,6 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - An Innocent Man (Audio)-mQCWY5ynBaw.mp4?raw=true"
         },
         {
-            "id": "R82XGJV_nkU",
-            "name": "Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4",
-            "size": 17.01532,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Laid Back - Sunshine Reggae-R82XGJV_nkU.mp4?raw=true"
-        },
-        {
             "id": "8dUffLvvYCY",
             "name": "BETO  VEGA - EL CAMPEÓN (VÍDEO OFICIAL)-8dUffLvvYCY.mp4",
             "path": "/home/alanmatzumiya/Videos/container/b/videos/BETO  VEGA - EL CAMPEÓN (VÍDEO OFICIAL)-8dUffLvvYCY.mp4",
@@ -436,13 +380,6 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/El Ultimo Ska-hnwAW2wVIpo.mp4?raw=true"
         },
         {
-            "id": "Cx3QmqV2pHg",
-            "name": "Billy Joel - She's Always a Woman (Official Audio)-Cx3QmqV2pHg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Billy Joel - She's Always a Woman (Official Audio)-Cx3QmqV2pHg.mp4",
-            "size": 4.89445,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - She's Always a Woman (Official Audio)-Cx3QmqV2pHg.mp4?raw=true"
-        },
-        {
             "id": "IwOfCgkyEj0",
             "name": "Bob Dylan - Like a Rolling Stone (Official Audio)-IwOfCgkyEj0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Like a Rolling Stone (Official Audio)-IwOfCgkyEj0.mp4",
@@ -455,27 +392,6 @@
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Marley - Burnin and Lootin-M99nzyiS830.mp4",
             "size": 8.183459,
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Marley - Burnin and Lootin-M99nzyiS830.mp4?raw=true"
-        },
-        {
-            "id": "HaA3YZ6QdJU",
-            "name": "Billy Joel - Just the Way You Are (Official Audio)-HaA3YZ6QdJU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Billy Joel - Just the Way You Are (Official Audio)-HaA3YZ6QdJU.mp4",
-            "size": 7.028175999999999,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - Just the Way You Are (Official Audio)-HaA3YZ6QdJU.mp4?raw=true"
-        },
-        {
-            "id": "ZgdufzXvjqw",
-            "name": "Bill Haley & His Comets - Rock Around The Clock (1955) HD-ZgdufzXvjqw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bill Haley & His Comets - Rock Around The Clock (1955) HD-ZgdufzXvjqw.mp4",
-            "size": 8.597406,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bill Haley & His Comets - Rock Around The Clock (1955) HD-ZgdufzXvjqw.mp4?raw=true"
-        },
-        {
-            "id": "5ky8I_H2RVM",
-            "name": "Benny Goodman. Stompin' at the Savoy --5ky8I_H2RVM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Benny Goodman. Stompin' at the Savoy --5ky8I_H2RVM.mp4",
-            "size": 8.663724,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Benny Goodman. Stompin' at the Savoy --5ky8I_H2RVM.mp4?raw=true"
         },
         {
             "id": "l2UktJtKpFw",
@@ -548,13 +464,6 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - The lion sleeps tonight + The longest time [ Frankfurt 3 - 9 - 2016 ]-Ws7DIMowHB8.mp4?raw=true"
         },
         {
-            "id": "WPDVxbk-zyU",
-            "name": "Bee Gees - To Love Somebody (1967) HD 0815007-WPDVxbk-zyU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bee Gees - To Love Somebody (1967) HD 0815007-WPDVxbk-zyU.mp4",
-            "size": 10.483742999999999,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bee Gees - To Love Somebody (1967) HD 0815007-WPDVxbk-zyU.mp4?raw=true"
-        },
-        {
             "id": "Ksvg5XB_blA",
             "name": "boikot esperando en el metro-Ksvg5XB_blA.mp4",
             "path": "/home/alanmatzumiya/Videos/container/b/videos/boikot esperando en el metro-Ksvg5XB_blA.mp4",
@@ -574,13 +483,6 @@
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Billy Joel - Pressure (Official Video)-Iyv905Q2omU.mp4",
             "size": 15.706349999999999,
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Billy Joel - Pressure (Official Video)-Iyv905Q2omU.mp4?raw=true"
-        },
-        {
-            "id": "bT7Hj-ea0VE",
-            "name": "Bob Dylan - All Along the Watchtower (Audio)-bT7Hj-ea0VE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - All Along the Watchtower (Audio)-bT7Hj-ea0VE.mp4",
-            "size": 4.399934,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - All Along the Watchtower (Audio)-bT7Hj-ea0VE.mp4?raw=true"
         },
         {
             "id": "GGZZkiHJQxQ",
@@ -688,25 +590,11 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Boston - Peace of Mind (Official Audio)-edwk-8KJ1Js.mp4?raw=true"
         },
         {
-            "id": "90WD_ats6eE",
-            "name": "Bob Dylan - The Times They Are A-Changin' (Audio)-90WD_ats6eE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - The Times They Are A-Changin' (Audio)-90WD_ats6eE.mp4",
-            "size": 6.824447999999999,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - The Times They Are A-Changin' (Audio)-90WD_ats6eE.mp4?raw=true"
-        },
-        {
             "id": "9DQ0IwavbTM",
             "name": "Breezin' ~ Eddie Beal Combo  (1957)-9DQ0IwavbTM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/b/videos/Breezin' ~ Eddie Beal Combo  (1957)-9DQ0IwavbTM.mp4",
             "size": 5.747687,
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Breezin' ~ Eddie Beal Combo  (1957)-9DQ0IwavbTM.mp4?raw=true"
-        },
-        {
-            "id": "Frj2CLGldC4",
-            "name": "Bob Dylan - Forever Young (Slow Version) (Audio)-Frj2CLGldC4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/b/videos/Bob Dylan - Forever Young (Slow Version) (Audio)-Frj2CLGldC4.mp4",
-            "size": 7.834581999999999,
-            "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Dylan - Forever Young (Slow Version) (Audio)-Frj2CLGldC4.mp4?raw=true"
         },
         {
             "id": "rnKbImRPhTE",
@@ -758,5 +646,5 @@
             "url": "https://github.com/circuitalmynds/music_b/blob/main/videos/Bob Marley - Get Up, Stand Up (Live at Munich, 1980)-RhJ0q7X3DLM.mp4?raw=true"
         }
     ],
-    "total_size": 1081.412575
+    "total_size": 940.1487030000002
 }
